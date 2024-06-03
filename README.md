@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Edwin
 
-file:///C:/Users/user/Videos/184489-873483996_small.gif
-
-
-
-
-
-
+<p align="center">
+  <img src=" file:///C:/Users/user/Pictures/184489-873483996_small.gif" alt="Profile Picture">
+</p>

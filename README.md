@@ -3,6 +3,7 @@
 <p align="center">
 ### Data Analyst
 </p>
+
 <p align="center">
   <img src="184489-873483996_small.gif" alt="Profile Picture">
 </p>
